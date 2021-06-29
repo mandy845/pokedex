@@ -1,0 +1,38 @@
+body {
+    background-image: url("./jie-dkFJST9zZZo-unsplash.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
+  button {
+    width: 100px;
+    padding: 20px;
+    margin: 5px;
+    
+    background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  }
+  
+  img {
+    width: 350px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-left:200px
+  }
+  .heading{
+      background-image: url("./pokemongo_500px-removebg-preview\ \(1\).png");
+      width: 483;
+    font-size: -5px;
+    height: 302px;
+    display: flex;
+    align-items: center;
+    background-position:center;
+    background-repeat:no-repeat;
+
+  }
+  
