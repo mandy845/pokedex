@@ -1,5 +1,5 @@
 body {
-    background-image: url("./jie-dkFJST9zZZo-unsplash.jpg");
+    background-color: yellow;
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -9,12 +9,12 @@ body {
     padding: 20px;
     margin: 5px;
     
-    background: rgba( 255, 255, 255, 0.25 );
-  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    background: rgba(223, 191, 14, 0.986);
+  box-shadow: 10 10px 45px 0 rgba( 31, 38, 135, 0.37 );
   backdrop-filter: blur( 4px );
   -webkit-backdrop-filter: blur( 4px );
   border-radius: 10px;
-  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  border: 2px solid rgba(19, 240, 19, 0.18);
   }
   
   img {
@@ -22,7 +22,8 @@ body {
     display:flex;
     justify-content:center;
     align-items:center;
-    padding-left:200px
+    padding-left:37px;
+    margin: auto;
   }
   .heading{
       background-image: url("./pokemongo_500px-removebg-preview\ \(1\).png");
@@ -35,4 +36,21 @@ body {
     background-repeat:no-repeat;
 
   }
+  p{
+    color: black;
+    font-size: 21px;
+    align-items: center;
+    background: rgba( 255, 165, 50, 0.65 );
+    box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
+    backdrop-filter: blur( 11.0px );
+    -webkit-backdrop-filter: blur( 11.0px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 219px;
+    padding-left: 68px;
+    height: 142px;
+    margin-top: -208px;
+    margin-right: auto
+  }
+  
   
